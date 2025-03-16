@@ -1,26 +1,52 @@
-<h2 align="center">👋 Hello! I'm Gaurav Gautam.</h2>
-<p align="center">
-  <a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-</p>
+👋 Hi, I'm Gaurav Gautam!
 
+🎓 Aspiring Data Scientist | Data Analyst | B.Tech in Computer Science
 
-- 🔭 I’m currently working on Web Development Technology
-- 🌱 I’m currently learning more on Observability and better Web Development Practices
-- 💬 Ask me about **Go, Git and Web**
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+I'm passionate about transforming data into actionable insights and building impactful solutions. My journey in data science revolves around leveraging tools like Python, SQL, and Power BI to explore trends and solve real-world problems. I thrive on learning new technologies and taking on challenging projects.
 
--------
+🚀 Skills
 
-### Techonologies
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+Programming: Python, SQL, C, C++, Java
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=gauravproud"
-    alt="gargakshit"
-  />
-</p>
+Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+
+Visualization Tools: Power BI, Tableau, Excel
+
+Other Tools: PyQt, MATLAB
+
+Soft Skills: Analytical Thinking, Teamwork, Problem-Solving
+
+📊 Projects
+
+Exploratory Data Analysis (EDA): Uncovered insights through data manipulation and visualization using Power BI.
+
+KAVACH (Security System): Built a face detection program using Python for enhanced security.
+
+NoteSwift: Developed a note-taking web app with JavaScript, HTML, and CSS.
+
+Hair Fall Case Study: Analyzed data to identify causes and proposed solutions, designing wireframes in Figma.
+
+💼 Experience
+
+Data Analyst Intern @ Konark Fire Solutions Pvt Ltd
+
+Automated data processing with Python, SQL, and R.
+
+Created dashboards in Power BI and Excel for performance monitoring.
+
+Conducted trend analysis for performance forecasting.
+
+🌱 Current Focus
+
+Enhancing my skills in Machine Learning and Data Engineering.
+
+Exploring real-world datasets to derive meaningful insights.
+
+📫 Connect with Me
+
+LinkedIn: Gaurav Gautam
+
+Email: gauravgautam268@gmail.com
+
+Let's connect and explore the limitless possibilities of data science together! 🚀
+
